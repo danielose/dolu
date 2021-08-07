@@ -1,0 +1,11 @@
+.img-fluid{
+    margin: 5px;
+}
+.page-content img{
+    height: 100%;
+}
+@media (min-width: 768px) {
+    .page-content img{
+        width: 300px;
+    }
+}
